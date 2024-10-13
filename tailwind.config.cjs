@@ -10,13 +10,13 @@ export default {
         },
         background: {
           "0%": {
-            transform: "rotate(-45deg) translateX(-15rem) translateY(-29rem)",
+            transform: "rotate(-45deg) translateX(-15rem) translateY(-32rem)",
           },
           "50%": {
             transform: "rotate(0deg) translateX(0rem) translateY(0rem)",
           },
           "100%": {
-            transform: "rotate(45deg) translateX(15rem) translateY(-29rem)",
+            transform: "rotate(45deg) translateX(15rem) translateY(-32rem)",
           },
         },
         translateItem: {
